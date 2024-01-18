@@ -24,11 +24,3 @@ terraform apply -auto-approve
 ```
 
 You can change this template as per your infrastructure requirements, and use this kubernetes cluster to deploy your application on AWS.
-=======
-terraform validate
-terraform plan
-terraform apply -auto-approve
-```
-
-You can change this template as per your infrastructure requirements, and use this kubernetes cluster to deploy your application on AWS.
->>>>>>> da16d77 (add readme file)
